@@ -4,7 +4,6 @@ Feature: Exibir Histórico de Vídeos/Séries Assistidos e Assistidos Recentemen
   I want Quero ver meu histórico de vídeos e séries assistidos
   So that eu possa acompanhar o que assisti e ver os itens assistidos recentemente
 
-
     Scenario: Registrar visualização ao acessar a página do vídeo
     Given o usuário está logado na plataforma
     And o usuário está na página inicial
